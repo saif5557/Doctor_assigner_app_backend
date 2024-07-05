@@ -39,9 +39,6 @@ src
 
 
 
-# API EndPoints
-# Add Doctor
 
-![add doctor](https://github.com/saif5557/Doctor_assigner_app_backend/assets/83996409/9d6a0a78-1147-4966-afcd-fd281514e077)
 
 
